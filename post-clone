@@ -1,0 +1,4 @@
+#!/bin/bash
+
+wget https://dl.xamarin.com/MonoFrameworkMDK/Macx86/MonoFramework-MDK-6.0.0.311.macos10.xamarin.universal.pkg
+sudo installer -pkg "MonoFramework-MDK-6.0.0.311.macos10.xamarin.universal.pkg" -target /
